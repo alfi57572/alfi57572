@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm ALFIYA M A</h1>
-<h3 align="center">Aspiring Data Analyst | Excel | SQL | Power BI | Python.</h3>
+<h3 align="center">Aspiring Data Analyst | Excel | SQL | Power BI | Python</h3>
 <p>I am an aspiring Data Analyst with a background in Computer Science Engineering and an interest in transforming raw data into meaningful insights.
-
 I am currently developing my skills in Excel, SQL, Power BI, and Python with a focus on data cleaning, analysis, visualization, and reporting. </p> 
 
 -📫 How to reach me **alfiyaalfi57572@gmail.com**
